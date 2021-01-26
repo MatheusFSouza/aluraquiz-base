@@ -33,7 +33,7 @@ export default function Home() {
       <QuizLogo />
         <Widget>
             <Widget.Header>
-              <h1>Genshin Impact</h1>
+              <h1>Genshin Impact Quiz</h1>
             </Widget.Header>
           <Widget.Content>
            <p>lorem ipsum sit amet....</p>
