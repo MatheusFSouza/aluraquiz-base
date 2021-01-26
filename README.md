@@ -37,6 +37,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled Components](https://github.com/styled-components/styled-components)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
+- [ESlint](https://eslint.org/)
 
 
 Visitem a [Alura](https://expo.io/).
