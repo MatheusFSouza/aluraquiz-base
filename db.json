@@ -4,30 +4,70 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://media.giphy.com/media/fWtJrVD5I2WIJRmfAw/giphy.gif",
+        "title": "Qual é o primeiro personagem jogável que você conhece?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Jean",
+          "Paimon",
+          "Amber",
+          "Diluc"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://media1.tenor.com/images/e4a9832aa0ef365fced3787b3a2e6a5a/tenor.gif?itemid=19687061",
+        "title": "Como você conheceu a Paimon?",
         "description": "Faz tempo em haha",
+        "answer": 1,
+        "alternatives": [
+           "Na Floresta",
+           "Pescando ela",
+           "Em Mondstadt",
+           "Na Catedral de Mondstadt"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/7c4aaf90c6b9093e9ca35779944262ac/09ede9a2618a40dd-6a/s640x960/5080c95806153ac2acf484cf5633f03a53bfdc20.gif",
+        "title": "Qual é o nome verdadeiro de Stormterror?",
+        "description": "Venti ajuda!!",
+        "answer": 3,
+        "alternatives": [
+           "Stormterror mesmo",
+           "Celestius",
+           "Anemo",
+           "Dvalin"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/c2b20825829a5d4fc132a717ba6941bc/tenor.gif?itemid=19227996",
+        "title": "Onde o Diluc trabalha?",
+        "description": "Silencio Paimon!!Não Conta.",
+        "answer": 1,
+        "alternatives": [
+           "Ele é um Cavaleiro de Favonius",
+           "Em uma Taverna",
+           "Em um Restaurante",
+           "Em um vinhedo"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/ed66226dc75238db3c8f9e9d36681b30/tenor.gif?itemid=18680170",
+        "title": "Qual é o prato que a Paimon mais Gosta?",
+        "description": "Bateu até uma fome.",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Frango com cenoura e mel",
+           "Espetinho de carne",
+           "Ovo frito de Teyvat",
+           "Sopa de rabanete"
         ]
       }
     ],
     "external": [
-      ""
+      "https://anime90s-quiz.yanbaetas.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/",
+      "https://aluraquiz-base.alura-challenges.vercel.app/"
     ],
     "theme": {
       "colors": {
